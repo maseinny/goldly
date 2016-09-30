@@ -421,6 +421,10 @@ body {
   webkit-tap-highlight-color: #222222;
 }
 
+.btn-primary:active:hover {
+  background-color: #F5A623;
+}
+
 #about .btn {
   margin-top: 20px;
 }
@@ -492,7 +496,6 @@ input:focus {
 #subscribe .btn:hover, #subscribe .btn:focus {
   outline: none;
   color: #F5A623;
-
 }
 
 #mc_embed_signup input.mce_inline_error { 
